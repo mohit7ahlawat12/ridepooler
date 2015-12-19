@@ -1,0 +1,1 @@
+This is a webapp built with GWT and other tools that allows you to select who is riding and who is driving on a given trip and will calculate based on ride to drive ratio whose turn it is to drive.
